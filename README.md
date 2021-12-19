@@ -2,7 +2,7 @@
 
 # 2. Домашнее задание к лекции «События и состояния»
 
-[[GithubPages](https://igor-chazov.github.io/ra-hw-2_events-state_1-2-3)]
+[![Build status](https://ci.appveyor.com/api/projects/status/0o9jv1qbi7vucjuf?svg=true)](https://ci.appveyor.com/project/igor-chazov/ra-hw-2-events-state-1-2-3) [[GithubPages](https://igor-chazov.github.io/ra-hw-2_events-state_1-2-3)]
 
 ---
 
