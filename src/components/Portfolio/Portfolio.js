@@ -1,9 +1,9 @@
-import { Component } from 'react';
+import React from 'react';
 import Toolbar from './Toolbar/Toolbar';
 import ProjectList from './ProjectList/ProjectList';
 import projects from './projects';
 
-export default class Portfolio extends Component {
+export default class Portfolio extends React.Component {
   constructor(props) {
     super(props);
     this.filters = ['All', 'Websites', 'Flayers', 'Business Cards'];

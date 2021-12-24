@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import PropTypes from 'prop-types';
 
 export default function DropdownList() {
   const listItems = [
@@ -27,4 +28,8 @@ export default function DropdownList() {
       )}
     </ul>
   )
+}
+
+DropdownList.propTypes = {
+  listItems: PropTypes.arrayOf(PropTypes.object).isRequired,
 }

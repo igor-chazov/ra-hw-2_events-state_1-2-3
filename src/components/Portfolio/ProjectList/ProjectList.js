@@ -1,8 +1,8 @@
-import { Component } from 'react';
+import React from 'react';
 import './project-list.css'
 import PropTypes from 'prop-types';
 
-export default class ProjectList extends Component {
+export default class ProjectList extends React.Component {
   render() {
     const { projects } = this.props;
     const projectsColumns = [[], [], []];
