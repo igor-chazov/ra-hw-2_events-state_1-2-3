@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ra-hw-2_events-state_1-2-3/static/css/main.c1e0a5ce.css",
+    "main.js": "/ra-hw-2_events-state_1-2-3/static/js/main.4516a5d8.js",
+    "static/media/Montserrat-Regular.woff2": "/ra-hw-2_events-state_1-2-3/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/ra-hw-2_events-state_1-2-3/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "static/media/PTSans-Narrow.woff": "/ra-hw-2_events-state_1-2-3/static/media/PTSans-Narrow.3fde4e00fdc473f24963.woff",
+    "static/media/place200x290_1.png": "/ra-hw-2_events-state_1-2-3/static/media/place200x290_1.36f3159ed57d72010c5d.png",
+    "static/media/PTSans-Narrow.woff2": "/ra-hw-2_events-state_1-2-3/static/media/PTSans-Narrow.66012c2fa875b9024479.woff2",
+    "static/media/place200x290.png": "/ra-hw-2_events-state_1-2-3/static/media/place200x290.6a372a5310c90efa7194.png",
+    "static/media/place200x290_2.png": "/ra-hw-2_events-state_1-2-3/static/media/place200x290_2.90ab69af2c3f2941d117.png",
+    "static/media/7.jpg": "/ra-hw-2_events-state_1-2-3/static/media/7.4e69b7d5e555abeffc6c.jpg",
+    "static/media/place200x290_3.png": "/ra-hw-2_events-state_1-2-3/static/media/place200x290_3.067bb232afcb90cd8ed8.png",
+    "static/media/5.jpg": "/ra-hw-2_events-state_1-2-3/static/media/5.ca2967275e72c1029c1e.jpg",
+    "static/media/Triangle_350x197_1.jpg": "/ra-hw-2_events-state_1-2-3/static/media/Triangle_350x197_1.ae7efb315f9f6f5cf6f3.jpg",
+    "static/media/Triangle_350x197.jpg": "/ra-hw-2_events-state_1-2-3/static/media/Triangle_350x197.e6b63a437c529e434078.jpg",
+    "static/media/transmission.jpg": "/ra-hw-2_events-state_1-2-3/static/media/transmission.8b5162e70ad6baa23f19.jpg",
+    "static/media/3.jpg": "/ra-hw-2_events-state_1-2-3/static/media/3.07309aa84d98ffdac447.jpg",
+    "index.html": "/ra-hw-2_events-state_1-2-3/index.html",
+    "main.c1e0a5ce.css.map": "/ra-hw-2_events-state_1-2-3/static/css/main.c1e0a5ce.css.map",
+    "main.4516a5d8.js.map": "/ra-hw-2_events-state_1-2-3/static/js/main.4516a5d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1e0a5ce.css",
+    "static/js/main.4516a5d8.js"
+  ]
+}

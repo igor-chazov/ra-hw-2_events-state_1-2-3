@@ -1,0 +1,11 @@
+{
+  "short_name": "ra-hw-2_events-state",
+  "name": "ra-hw-2_events-state-1-filter-2-layouts-3-dropdown",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]  
+}
